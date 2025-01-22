@@ -8,3 +8,7 @@ In this project,we created a bot by **UIPath Studio** which will open the page o
 2. Then we added the **type into** activity to seach for the name of the book **robotics**.
 3. After that, we added the **click** activity to search it.
 4. Then we added the **click** acitivity to open the book.
+
+# 2024-1-23
+
+- Fatiha Mahmud Dheera, Dheerahere, amk1002300@student.hamk.fi
